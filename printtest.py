@@ -3,7 +3,7 @@ print (pelajaran[0])
 print (pelajaran[0:9:8])
 print (pelajaran[0:10])
 
-suku = 'jawa'
+suku = 'Sunda'
 print (suku[0])
 print (suku[0:1])
 print (suku[0:2])
