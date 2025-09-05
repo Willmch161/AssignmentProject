@@ -1,0 +1,11 @@
+import random
+
+
+fahrenheit = random.uniform(-100, 150)
+
+
+celsius = (fahrenheit - 32) * 5/9
+
+
+print(f"Fahrenheit: {fahrenheit:.2f}°F")
+print(f"Celsius: {celsius:.2f}°C")
